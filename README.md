@@ -1,2 +1,2 @@
-# Data Structure and Algorithm
-### This is my Data Structure and Algorithm code only i can do
+# Data Structure and Algorithm code
+This repository is part of Data Structure and Algorithm course @ School of Information Technology, KMITL
